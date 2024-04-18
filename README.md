@@ -2,6 +2,8 @@
 
 # Tiny Tapeout Wokwi Project Template
 
+Workwi project using gates to display "C" on the 7 segment display.
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
